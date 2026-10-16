@@ -1,3 +1,5 @@
-arroz 5kg
+arroz
 
-macarrão 700g
+macarrão
+
+carne moída
